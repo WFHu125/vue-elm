@@ -18,7 +18,7 @@
           <li class="block">
             <h2>商家配送</h2>
             <div class="content">
-              <span class="stress">{{seller.delivery}}</span>元
+              <span class="stress">{{seller.deliveryPrice}}</span>元
             </div>
           </li>
           <li class="block">
